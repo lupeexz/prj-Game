@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(87, 7, 103);
+    color: white;
+}
+.div1{
+    color: black;
+    font-style: bold;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    height: 210px;
+    width: 350px;
+    border-radius: 10%;
+    border-color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 15%;
+    width: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    border-radius: 10px;
+
+}
+
+label{
+    margin-left: 0px;
+}
